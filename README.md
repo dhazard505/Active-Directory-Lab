@@ -6,10 +6,10 @@ Creating and provisioning a virtual Active Directory server and a client node to
 
 <h2>Lab Report: Active Directory Setup in VMware</h2>
 
-Title
+<h3>Title</h3> <br />
 Basic Active Directory Lab with VMware Workstation Pro
 
-Abstract
+<h3>Abstract</h3> <br />
 This lab demonstrates the setup of a simple Active Directory (AD) domain environment using VMware Workstation Pro. A Windows Server 2019 machine is configured as a Domain Controller (DC) with Active Directory Domain Services (AD DS), DNS, and DHCP. A Windows 10 client is connected to the domain for testing. The objective is to understand the roles of DHCP, DNS, and NAT in a virtualized AD setup.
 
 Introduction
