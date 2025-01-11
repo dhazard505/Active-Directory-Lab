@@ -4,7 +4,7 @@
 <h1>Active Directory Project</h1>
 
 
-# Diagram of lab set up
+# Lab Setup Diagram
 <img src="Basic Active Directory Lab.png" alt="Diagram of lab"/>
 
 # Basic Active Directory Lab with VMware Workstation Pro
